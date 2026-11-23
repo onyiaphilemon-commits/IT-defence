@@ -4,7 +4,7 @@ import { useState } from "react";
 import CarCard from "../Components/Carcard";
 import Header from "../Components/Header";
 import Hero from "../Components/Hero";
-import SearchPanel from "../Components/Searchpanel";
+import SearchPanel from "../Components/SearchPanel";
 import cars from "../Data/Cars";
 import Inventory from "../Components/Inventory";
 import Footer from "../Components/Footer";
